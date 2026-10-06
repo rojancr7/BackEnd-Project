@@ -5,6 +5,7 @@ import dotenv from "dotenv";
 // import { DB_Name } from "./constants";
 import connectDB from "./db/index.js";
 import { Error } from "mongoose";
+import app from './app.js'
 
 
 
